@@ -21,6 +21,7 @@
 - Once installed type neofetch in your terminal
 
 ## Image
+![Demo Screenshot] (https://github.com/D-Jaden/Neofetch-custom-config/blob/main/neofetch.png)
 
 ## Warning
 - neofetch isn't compatible on every distro
