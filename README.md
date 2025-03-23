@@ -1,4 +1,4 @@
-# Neofetch-custom-config
+# neofetch-custom-config
 - Yes I know neofetch is old, however it is still one of the best packages for showcasing your system.
 
 ## Table of Contents
