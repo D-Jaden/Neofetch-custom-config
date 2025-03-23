@@ -5,6 +5,7 @@
 - [Installation]
 - [Usage]
 - [How To Use]
+- [Image]
 - [Warning]
 - [Acknowledgement]
 
@@ -18,6 +19,8 @@
 
 ## How To Use
 - Once installed type neofetch in your terminal
+
+## Image
 
 ## Warning
 - neofetch isn't compatible on every distro
